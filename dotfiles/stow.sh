@@ -1,0 +1,1 @@
+stow -d ~/Documents/magenta-dots -t ~/ dotfiles
